@@ -1,7 +1,7 @@
 Analisador de Tom de Voz para Apresentações
 
 Projeto da disciplina de Computação Afetiva (UERN)
-Autor: Luís Henrique, Maria Antonia
+Autores: Luís Henrique, Maria Antonia
 Orientação: Prof. Raul Paradeda
 
 1. Descrição do Projeto
