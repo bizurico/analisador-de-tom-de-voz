@@ -74,7 +74,7 @@ Passo a Passo
 
 Clone o repositório:
 
-git clone [https://github.com/bizurico/analisador-tom-voz.git]
+git clone [https://github.com/bizurico/analisador-tom-voz]
 cd analisador-tom-voz
 
 
